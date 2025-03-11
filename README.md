@@ -22,26 +22,18 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 🔹 **Currently pursuing intensive training at ITI (9-month AI Program)**, focusing on **advanced machine learning models, data engineering, and AI system deployment**.  
 🔹 **Active in competitive programming**, solving complex algorithmic problems on **Codeforces and LeetCode** to sharpen my problem-solving skills.  
 🔹 **Freelance AI Developer**, delivering customized AI solutions on platforms like **Mostaql & Upwork**.  
-🔹 **Experienced in AI-driven healthcare applications**, contributing to projects that integrate **AI and medical imaging**.  
-
-💡 **Notable Projects:**  
-✅ **AI Chatbot for Dermatology** – Automates diagnosis and speeds up dermatological consultations.  
-✅ **Brain Tumor Classification (CNNs)** – High-accuracy model for detecting brain tumors from MRI scans.  
-✅ **COVID-19 Detection from X-rays** – Deep learning model to assist in pandemic diagnosis.  
-✅ **Bank Loan Classification** – Predicting loan approval using machine learning techniques.  
+🔹 **Experienced in AI-driven healthcare applications**, contributing to projects that integrate **AI and medical imaging**.   
 
 📂 **Portfolio:** [🔗 View My Projects](http://65524b5355318.site123.me/)  
 
 ---
 
 ## 🛠 **Technical Skills & Tools**  
-
 🔹 **Programming Languages:** Python, Java, C++  
 🔹 **AI & ML Frameworks:** TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn  
 🔹 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 🔹 **Web Development:** Flask, Django, React  
 🔹 **Other Tools & Platforms:** Git, Docker, Jupyter Notebook, Google Cloud, AWS  
-
 ---
 
 ## 📊 **GitHub Statistics**  
@@ -55,32 +47,6 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 - 🔄 **Pull Requests Submitted:** [Number]  
 - 🛠 **Issues Created:** [Number]  
 - 🌎 **Projects Contributed to (Last Year):** [Number]  
-
----
-
-## 🚀 **Top Repositories**  
-
-### 🔥 **AI & Deep Learning Projects**  
-1️⃣ **[AI-Chatbot-Dermatology](https://github.com/youssefhusain/AI-Chatbot-Dermatology)** – NLP-powered chatbot for dermatology consultations.  
-   📝 **Technologies:** Python, NLP, Deep Learning.  
-
-2️⃣ **[Brain-Tumor-Classification](https://github.com/youssefhusain/Brain-Tumor-Classification)** – CNN-based model for MRI tumor classification.  
-   📝 **Technologies:** Python, TensorFlow, Keras.  
-
-3️⃣ **[COVID-19-Detection](https://github.com/youssefhusain/covid-19)** – Computer vision model for diagnosing COVID-19 from X-ray images.  
-   📝 **Technologies:** Python, OpenCV, CNNs.  
-
-4️⃣ **[Gene-Classification](https://github.com/youssefhusain/Gene-Classification)** – Data science project for gene classification using ML techniques.  
-   📝 **Technologies:** Python, Scikit-learn, EDA.  
-
-### 🏆 **Competitive Programming & Algorithms**  
-5️⃣ **[LeetCode-Solutions](https://github.com/youssefhusain/LeetCode-Solutions)** – Collection of solutions for LeetCode problems.  
-   📝 **Technologies:** C++, Python, Algorithms.  
-
-6️⃣ **[CSES-Problem-Set-Solutions](https://github.com/youssefhusain/CSES-Problem-Set-Solutions)** – Solutions for the famous CSES problem set.  
-   📝 **Technologies:** C++, Data Structures.  
-
-📂 **More projects:** [🔗 View Portfolio](http://65524b5355318.site123.me/)  
 
 ---
 
