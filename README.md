@@ -41,17 +41,9 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical)  
-
-- ⭐ **Total Stars Earned:** [Number]  
-- 🔥 **Total Contributions (2025):** [Number]  
-- 🔄 **Pull Requests Submitted:** [Number]  
-- 🛠 **Issues Created:** [Number]  
-- 🌎 **Projects Contributed to (Last Year):** [Number]  
-
 ---
 
 ## 🌐 **Connect with Me**  
-
 - [📧 Email](mailto:Yousef20402@fci.bu.edu.eg)  
 - [🔗 LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/)  
 - [⚡ Codeforces](https://codeforces.com/profile/Youssefh)  
