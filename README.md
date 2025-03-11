@@ -28,27 +28,11 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 
 ---
 
-## 🛠 **Technical Skills & Tools**  
-🔹 **Programming Languages:** Python, Java, C++  
-🔹 **AI & ML Frameworks:** TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn  
-🔹 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-🔹 **Web Development:** Flask, Django, React  
-🔹 **Other Tools & Platforms:** Git, Docker, Jupyter Notebook, Google Cloud, AWS  
----
-
 ## 📊 **GitHub Statistics**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical)  
----
-
-## 🌐 **Connect with Me**  
-- [📧 Email](mailto:Yousef20402@fci.bu.edu.eg)  
-- [🔗 LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/)  
-- [⚡ Codeforces](https://codeforces.com/profile/Youssefh)  
-- [💡 LeetCode](https://leetcode.com/u/MzGALELlFZ/)  
-- [📜 Certifications](https://drive.google.com/drive/u/0/folders/1GO2tantyMN3JJ32zkLDCk9E6m89sZajV)  
 
 ---
 
