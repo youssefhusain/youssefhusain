@@ -3,6 +3,8 @@
 
 
 
+
+
 🎓 **B.Sc. in Computer Science & Artificial Intelligence** – Benha University (GPA: 3.4/4)  
 💼 **Teaching Assistant at Benha National University** | **AI Engineer at Quantum BITS**  
 📚 **AI Track Trainee at ITI (9-month Program)**  
