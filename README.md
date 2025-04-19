@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Youssef Hassan Alghamry**  
 
-
-
   
 
 🎓 **B.Sc. in Computer Science & Artificial Intelligence** – Benha University (GPA: 3.4/4)  
