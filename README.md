@@ -57,7 +57,7 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 ✅ **Master Advanced Algorithms & Data Structures**  
 ✅ **Specialize in AI Cloud Deployments & Edge Computing**  
 
----
+<---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -127,5 +127,7 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 
 </body>
 </html>
+--->
+
 
 **🚀 If you find my projects useful, don't forget to give them a ⭐!**  
