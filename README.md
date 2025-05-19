@@ -36,9 +36,7 @@ I am a **passionate AI Engineer** and **Machine Learning Developer** with expert
 ---
 
 ## 📊 **GitHub Statistics**  
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhusain&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=radical](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhusain&show_icons=true&theme=radical))  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical)  
