@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Youssef Hassan Alghamry
 
-
 🎓 **B.Sc. in Computer Science & Artificial Intelligence**  
 📍 **Based in Alexandria, Egypt**  
 💼 **AI Engineer @ Quantum BITS**  
