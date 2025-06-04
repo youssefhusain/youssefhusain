@@ -1,113 +1,112 @@
-# 👋 Hi, I'm Youssef Hassan Alghamry
+# 👋 Youssef Hassan Alghamry
 
+**AI Engineer & Machine Learning Developer | Alexandria, Egypt**
 
-
-
-
-🎓 **B.Sc. in Computer Science & Artificial Intelligence**  
-📍 **Based in Alexandria, Egypt**  
-💼 **AI Engineer @ Quantum BITS**  
-🎓 **Teaching Assistant @ Benha National University (2024)**  
-🧠 **AI Track Trainee @ ITI (9-month Diploma)**  
-🏁 **Competitive Programmer (Codeforces & LeetCode)**  
+[youssef.h.alghamry@gmail.com](mailto:youssef.h.alghamry@gmail.com) | [LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/) | [GitHub](https://github.com/youssefhusain) | [Portfolio](http://65524b5355318.site123.me/) | [Certifications](https://drive.google.com/drive/u/0/folders/1GO2tantyMN3JJ32zkLDCk9E6m89sZajV)
 
 ---
 
-## 🌟 Who I Am
+## 🌟 About Me
 
-I'm a passionate **AI Engineer** and **Machine Learning Developer** with a strong background in:
+I am a passionate and results-oriented AI Engineer specializing in **Deep Learning, Natural Language Processing (NLP), Computer Vision, and Time-Series Forecasting**. My focus is on developing innovative AI solutions to address real-world challenges, with a particular interest in **healthcare technology and human-computer interaction**.
 
-- 🤖 **Deep Learning**  
-- 🧠 **Natural Language Processing (NLP)**  
-- 👁️ **Computer Vision**  
-- ⏱️ **Time-Series Forecasting**
-
-I'm always working on AI solutions that **solve real-world problems**, particularly in **healthcare** and **human-computer interaction**.
-
----
-
-## 🚀 Highlights
-
-✅ Built a **therapy chatbot** using LLMs and LangChain for mental health support.  
-✅ Developed **"Guardian on Wheels"**, an AI-powered system for emergency detection and MRI analysis.  
-✅ Created **interactive AI dashboards** and **gesture-controlled applications**.  
-✅ Integrated MLOps tools like **Docker, MLflow, FastAPI, Grafana** into production-ready systems.  
-✅ Contributed to open-source and freelanced on **Mostaql** and **Upwork**.
+I thrive in dynamic environments, continuously learning and applying cutting-edge techniques. My background includes:
+-   🎓 **B.Sc. in Computer Science & Artificial Intelligence**
+-   💼 **AI Engineer @ Quantum BITS**
+-   👨‍🏫 **Teaching Assistant @ Benha National University (2024)**
+-   🧠 **AI Track Trainee @ ITI (9-month Intensive Diploma)**
+-   💻 **Active Competitive Programmer (Codeforces & LeetCode)**
 
 ---
 
-## 💼 Experience
+## 🚀 Key Achievements & Contributions
 
-### 🔹 AI Engineer @ Quantum BITS  
-*Remote – Jan 2025 – Present*  
-- Built context-aware chatbots for mental health using **T5 + LangChain**.  
-- Worked on optimizing emotional intelligence in language models.
+* **Mental Health Support:** Engineered a context-aware **therapy chatbot** using LLMs (T5) and LangChain, optimizing for emotional intelligence in language models.
+* **AI in Healthcare:** Developed **"Guardian on Wheels,"** an AI-powered robotics system for patient care, featuring emergency detection and MRI analysis capabilities.
+* **Interactive AI Systems:** Created dynamic AI dashboards (Dash, Plotly, Power BI) and **gesture-controlled applications** (MediaPipe, SVM).
+* **MLOps & Deployment:** Successfully integrated MLOps tools like **Docker, MLflow, FastAPI, and Grafana** into production-ready AI systems.
+* **Community & Freelancing:** Actively contributed to open-source projects and delivered AI solutions on **Mostaql** and **Upwork**.
 
-### 🔹 Teaching Assistant @ Benha National University  
-*Part-Time – Aug 2024 – Nov 2024*  
-- Mentored students in AI & ML courses and supervised graduation projects.
+---
+
+## 💼 Professional Experience
+
+### AI Engineer | Quantum BITS
+*(Remote – Jan 2025 – Present)*
+-   Develop and deploy context-aware chatbots for mental health applications using T5, LangChain, and advanced NLP techniques.
+-   Research and implement methods to enhance emotional intelligence and empathy in language models.
+-   Collaborate with cross-functional teams to integrate AI solutions into user-facing products.
+
+### Teaching Assistant | Benha National University
+*(Part-Time – Aug 2024 – Nov 2024)*
+-   Mentored undergraduate students in Artificial Intelligence and Machine Learning courses.
+-   Assisted in curriculum development, graded assignments, and supervised graduation projects.
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🛡️ Guardian on Wheels | AI + Robotics system for patient care, emergency alerts, and MRI analysis. |
-| 💬 Therapy Chatbot | Built with LangChain + LLM to simulate empathetic, supportive conversations. |
-| 📊 Freelance Market Insights | Web scraping + analytics to track AI job trends on freelancing platforms. |
-| ✋ Hand Gesture Recognition | Real-time gesture classifier using MediaPipe + SVM (97% accuracy). |
-| 📦 Train Flow SKY | All-in-one ML dashboard (Dash + Plotly) for model training & evaluation. |
-| 🎮 Gesture Maze Control | ML + FastAPI + React system for hand-controlled maze game. |
-| ⚽ Premier League Dashboard | Interactive Power BI report analyzing performance & referee trends. |
+| Project                   | Description                                                                                                | Technologies Used                       |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------- |
+| 🛡️ **Guardian on Wheels** | AI + Robotics system for patient care, emergency alerts, and automated MRI analysis.                       | Python, TensorFlow, OpenCV, Robotics OS |
+| 💬 **Therapy Chatbot** | Empathetic chatbot built with LangChain & LLMs (T5) to simulate supportive mental health conversations.    | LangChain, T5, Python, NLP              |
+| 📊 **Freelance Insights** | Web scraping & analytics platform to track AI job trends on freelancing sites.                             | Python, Scrapy, Pandas, Plotly          |
+| ✋ **Gesture Recognition**| Real-time hand gesture classifier achieving 97% accuracy.                                                  | MediaPipe, SVM, OpenCV, Python          |
+| 📦 **Train Flow SKY** | All-in-one ML dashboard for model training, evaluation, and visualization.                                 | Dash, Plotly, Scikit-learn, Python    |
+| 🎮 **Gesture Maze Control**| Interactive maze game controlled by hand gestures via an ML-powered API.                                   | MediaPipe, FastAPI, React, Python      |
+| ⚽ **PL Dashboard** | Interactive Power BI report analyzing Premier League performance metrics & referee trends.                 | Power BI, DAX, Data Analysis            |
 
-🔗 **Full Portfolio:** [Click Here](http://65524b5355318.site123.me/)
+🔗 **View Full Portfolio:** [Click Here](http://65524b5355318.site123.me/)
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Tools |
-|---------|-------|
-| **Languages** | Python, SQL, NoSQL |
-| **ML/DL** | TensorFlow, PyTorch, Keras, Scikit-learn |
-| **Domains** | NLP, Computer Vision, Time-Series |
-| **Data Analysis** | Pandas, NumPy, Feature Engineering |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
-| **Deployment** | FastAPI, Docker, MLflow, Grafana |
-| **Other Tools** | LangChain, Git, Web Scraping, Robotics |
+| Category             | Technologies & Concepts                                            |
+| :------------------- | :----------------------------------------------------------------- |
+| **Programming** | Python, SQL, NoSQL (MongoDB)                                       |
+| **ML/DL Frameworks** | TensorFlow, PyTorch, Keras, Scikit-learn                           |
+| **AI Domains** | NLP (LLMs, Transformers), Computer Vision, Time-Series Forecasting |
+| **Data Science** | Pandas, NumPy, SciPy, Feature Engineering, Statistical Analysis    |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Dash, Power BI                        |
+| **MLOps & Deployment**| FastAPI, Docker, MLflow, Grafana, REST APIs                        |
+| **Other Tools** | LangChain, Git, GitHub, Web Scraping (BeautifulSoup, Scrapy), ROS    |
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Goals & Interests
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhusain&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical)  
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical)
+-   Contribute to impactful **open-source AI projects**, particularly in healthcare and accessibility.
+-   Advance expertise in **MLOps, cloud-based AI solutions (AWS/GCP/Azure), and edge computing**.
+-   Master **advanced algorithms, data structures, and system design** for scalable AI.
+-   Continuously explore and implement **state-of-the-art research** in AI.
 
 ---
 
-## 🎯 My Goals
+## 📊 GitHub Activity
 
-- 🔍 Contribute to impactful **open-source AI projects**  
-- ⚕️ Build scalable AI tools in **healthcare and mental health**  
-- 📈 Advance in **MLOps, cloud AI, and edge computing**  
-- 🧠 Master **advanced algorithms and data structures**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhusain&theme=dracula" alt="Youssef's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=radical" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=radical" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 📧 [youssef.h.alghamry@gmail.com](mailto:youssef.h.alghamry@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-hessan-alghamry/)  
-- 💻 [GitHub](https://github.com/youssefhusain)  
-- 📜 [My Certifications](https://drive.google.com/drive/u/0/folders/1GO2tantyMN3JJ32zkLDCk9E6m89sZajV)  
-- 🧠 [Codeforces](https://codeforces.com/profile/Youssefh)  
-- 🧩 [LeetCode](https://leetcode.com/u/MzGALELlFZ/)
+I'm always open to discussing new projects, collaborations, or opportunities.
+
+-   **Email:** [youssef.h.alghamry@gmail.com](mailto:youssef.h.alghamry@gmail.com)
+-   **LinkedIn:** [linkedin.com/in/youssef-hessan-alghamry](https://www.linkedin.com/in/youssef-hessan-alghamry/)
+-   **GitHub:** [github.com/youssefhusain](https://github.com/youssefhusain)
+-   **Codeforces:** [codeforces.com/profile/Youssefh](https://codeforces.com/profile/Youssefh)
+-   **LeetCode:** [leetcode.com/u/MzGALELlFZ](https://leetcode.com/u/MzGALELlFZ/)
 
 ---
+*Actively seeking opportunities to leverage AI for a better future. Feel free to reach out!*
 
-⭐ **If you like what I do, don’t forget to give a star to my projects!**
 <p align="left">
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
