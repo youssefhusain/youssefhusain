@@ -81,25 +81,7 @@ I thrive in dynamic environments, continuously learning and applying cutting-edg
 -   Master **advanced algorithms, data structures, and system design** for scalable AI.
 -   Continuously explore and implement **state-of-the-art research** in AI.
 
----
 
-## 📊 GitHub Activity
-
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youssefhusain&theme=dracula)](https://github.com/youssefhusain)
-
-</div>
-
-## Contribution Stats
-
-<div align="center">
-
-![GitHub Stats](https://metrics.lecoq.io/youssefhusain?template=classic&config.timezone=Africa%2FCairo)
-
-</div>
 
 
 ---
