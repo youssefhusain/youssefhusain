@@ -85,16 +85,22 @@ I thrive in dynamic environments, continuously learning and applying cutting-edg
 
 ## 📊 GitHub Activity
 
+## GitHub Activity
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhusain&theme=github_dark" alt="GitHub Profile Summary" width="100%"/>
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=youssefhusain&theme=dracula)](https://github.com/youssefhusain)
+
 </div>
+
+## Contribution Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefhusain&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhusain&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
+
+![GitHub Stats](https://metrics.lecoq.io/youssefhusain?template=classic&config.timezone=Africa%2FCairo)
+
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefhusain&theme=github-compact&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
+
 
 ---
 
