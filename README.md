@@ -108,4 +108,8 @@ I'm always working on AI solutions that **solve real-world problems**, particula
 ---
 
 ⭐ **If you like what I do, don’t forget to give a star to my projects!**
-
+<p align="left">
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+</p>
