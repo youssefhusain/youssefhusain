@@ -105,8 +105,6 @@ I'm always open to discussing new projects, collaborations, or opportunities.
 -   **LeetCode:** [leetcode.com/u/MzGALELlFZ](https://leetcode.com/u/MzGALELlFZ/)
 
 ---
-*Actively seeking opportunities to leverage AI for a better future. Feel free to reach out!*
-
 <p align="left">
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
