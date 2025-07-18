@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hi+There!+👋🏻;+I'm+George+Ezat+👨🏻‍💻;"/>
+</h1>
+
+
 # 👋 Youssef Hassan Alghamry<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
