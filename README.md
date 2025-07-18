@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hi+There!+👋🏻;+I'm+George+Ezat+👨🏻‍💻;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35%C2%A2er=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;+I%27m+Youssef+Hussain+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;"/>
 </h1>
 
 
